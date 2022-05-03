@@ -1,1 +1,7 @@
-
+1. Заголовок ошибки (Title)
+2. Описание ошибки (Summary)
+3. Начальные условия (Precondition)
+4. Шаги воспроизведения (Steps To Reproduce)
+5. Ожидаемый результат (Expected Result)
+6. Фактический результат (Actual Result)
+7. Вложения (Attachments)
