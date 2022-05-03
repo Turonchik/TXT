@@ -1,6 +1,5 @@
+Name: Zhanna
+Age: 24
+Pets: 1
+Salary: 700
 
-{ Turonok Zhanna Olegovna
- 24
- one 
- 1000
- }
